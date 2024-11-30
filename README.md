@@ -10,14 +10,12 @@ The robot is designed with two main sections: the upper and lower parts. The upp
 
 This robot is affectionately named "Egg" due to its unique design. When the upper section is opened for access and modifications to the electronics, the robot resembles a cracked egg, which led to the playful nickname.
 
-<p align="center">
-  <img src="Egg.jpg" alt="Robot" width="300"/>
-</p>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="Egg.jpg" alt="Imagem 1" width="300"/>
-  <img src="EggEletronics.jpg" alt="Imagem 2" width="300"/>
+  <img src="Egg.jpg" alt="Imagem 1" width="320"/>
+  <img src="EggEletronics.jpg" alt="Imagem 2" width="350"/>
 </div>
+
 
 With the ability to adjust the irrigation frequency (high, daily, and every two days), the system ensures that plants receive the ideal amount of water, avoiding both excessive and insufficient irrigation. This project combines simplicity and accessible technology to promote well-being and improve quality of life.
 
