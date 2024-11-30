@@ -12,8 +12,8 @@ This robot is affectionately named "Egg" due to its unique design. When the uppe
 
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="Egg.jpg" alt="Imagem 1" width="320"/>
-  <img src="EggEletronics.jpg" alt="Imagem 2" width="350"/>
+  <img src="Images/Egg.jpg" alt="Imagem 1" width="320"/>
+  <img src="Images/EggEletronics.jpg" alt="Imagem 2" width="350"/>
 </div>
 
 
